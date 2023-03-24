@@ -1,0 +1,22 @@
+*{
+	background-color:gray;
+}
+img{
+	width:50vh;
+	
+}
+div{
+	font-size:20px;
+	border:1px solid red;
+}
+span{
+	font-size:3em;
+	
+}
+html{
+	font-size:10px;
+}
+p{
+	font-size:5rem;
+	
+}
